@@ -1,7 +1,7 @@
 # AXA France Design System
 
 Le projet design system AXA France a pour objectif de proposer un point d'entrée
-unique pour utiliser le design system AXA France au sein de vos projets.
+unique pour utiliser le design system AXA France au sein de vos  projets.
 
 Il propose d'utiliser les deux designs systems principaux :
 
